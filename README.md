@@ -6,7 +6,8 @@ Além de desenvolvedor e amante de tecnologia, também sou colecionador e entusi
 
 Você também pode me encontrar no:
 
-- 🐦 Twitter: [@felipebbarbosa](https://www.twitter.com/felipebbarbosa)
-- 📸 Instagram: [felipebbarbosa](https://www.instagram.com/felipebbarbosa)
+- 💻 [LinkedIn](https://www.linkedin.com/in/felipebbarbosa/)
+- 🐦 [Twitter](https://www.twitter.com/felipebbarbosa)
+- 📸 [Instagram](https://www.instagram.com/felipebbarbosa)
 
 
