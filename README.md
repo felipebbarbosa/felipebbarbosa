@@ -1,10 +1,13 @@
 ## Olá, sou o Felipe! 
 
-💻 Desenvolvedor @ [Metroval](https://metroval.com.br)
+💻 Desenvolvedor @ [Metroval](https://metroval.com.br) e entusiasta/colecionador de jogos eletrônicos!
 
-Além de desenvolvedor e amante de tecnologia, também sou colecionador e entusiasta de jogos eletrônicos, onde mantenho dois projetos relacionados a este hobby: o [Videogames com Cerveja](https://www.vgscomcerveja.com.br) e o [Colecionando.Games](https://colecionando.games), ambos desenvolvidos para compartilhar minhas experiências e pesquisas relacionadas ao mundo dos videogames, porém eles **também são meus laboratórios de estudos**, ou seja, eu aplico meus novos aprendizados neles, são meus "cobaias"! 
+### Projetos pessoais
 
-Você também pode me encontrar no:
+- [Colecionando.Games](https://colecionando.games)
+- [Videogames com Cerveja](https://www.vgscomcerveja.com.br)
+
+### Redes sociais
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/felipebbarbosa/)
 - 🐦 [Twitter](https://www.twitter.com/felipebbarbosa)
